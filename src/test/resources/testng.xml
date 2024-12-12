@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test Suite">
+    <test name="Qubika Tests">
+        <parameter name="url" value="https://the-internet.herokuapp.com/tables" />
+        <classes>
+            <class name="org.example.tests.SecondTest" />
+        </classes>
+    </test>
+</suite>
